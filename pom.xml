@@ -16,9 +16,9 @@
     </properties>
 
     <modules>
-        <module>db</module>
-        <module>api</module>
-        <module>service</module>
+        <module>src/main/java/db</module>
+        <module>src/main/java/api</module>
+        <module>src/main/java/service</module>
     </modules>
 
 </project>
